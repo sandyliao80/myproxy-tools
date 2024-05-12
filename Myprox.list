@@ -1,0 +1,110 @@
+DOMAIN-KEYWORD,xnxx.com
+DOMAIN-KEYWORD,imgur.com
+DOMAIN-KEYWORD,xn--4gq62f52gdss.com
+DOMAIN-KEYWORD,miningonebitcoin.com
+DOMAIN-KEYWORD,openai.com
+  #自定义
+DOMAIN-KEYWORD,savevids.net
+DOMAIN-KEYWORD,quora.com
+DOMAIN-KEYWORD,javimdb.com
+DOMAIN-KEYWORD,javbus.com
+DOMAIN-KEYWORD,www.dhtcat.com
+DOMAIN-KEYWORD,dropbox.com
+DOMAIN-KEYWORD,apibdzy.com
+DOMAIN-KEYWORD,ping.pe
+DOMAIN-KEYWORD,bybit.com
+  #caiji
+DOMAIN-KEYWORD,nitter.net
+DOMAIN-KEYWORD,nitter.42l.fr
+DOMAIN-KEYWORD,nitter.pussthecat.org
+DOMAIN-KEYWORD,nitter.nixnet.services
+DOMAIN-KEYWORD,twitter.076.ne.jp
+  #zimu
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,kyradb.com
+DOMAIN-SUFFIX,hd-trailers.net
+DOMAIN-SUFFIX,ofdb.de
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,porn300.com
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,pyspider.org
+DOMAIN-SUFFIX,toonily.com
+DOMAIN-SUFFIX,ttwhentai.com
+DOMAIN-SUFFIX,btbtt.me
+  #myproxy
+DOMAIN-SUFFIX,shuchong.icu
+DOMAIN-SUFFIX,00h2.com
+DOMAIN-SUFFIX,soonkan.com
+DOMAIN-SUFFIX,8ra.net
+DOMAIN-SUFFIX,sanji.icu
+DOMAIN-SUFFIX,sex123.xyz
+DOMAIN-SUFFIX,xiuyinba.xyz
+DOMAIN-KEYWORD,adsterra.com
+DOMAIN-KEYWORD,mm131.net
+DOMAIN-KEYWORD,cloudfront.net
+  #AI
+DOMAIN-KEYWORD,bing.com
+  #admob
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,lepan.cc
+DOMAIN-SUFFIX,exoclick.com
+DOMAIN-SUFFIX,realsrv.com
+DOMAIN-SUFFIX,groupdao.io
+  #caiji
+DOMAIN-SUFFIX,mojim.com
+DOMAIN-SUFFIX,virmach.com
+DOMAIN-SUFFIX,olevod.com
+DOMAIN-SUFFIX,rustbaike.com
+DOMAIN-SUFFIX,rtwhentai.com
+DOMAIN-SUFFIX,twhentai.com
+DOMAIN-SUFFIX,1000novel.com
+DOMAIN-SUFFIX,h528.com
+DOMAIN-SUFFIX,canovel.com
+DOMAIN-SUFFIX,aaanovel.com
+DOMAIN-SUFFIX,solidfiles.com
+DOMAIN-SUFFIX,xxbook.cc
+DOMAIN-SUFFIX,xxxnovel.com
+DOMAIN-SUFFIX,hanime.tv
+DOMAIN-SUFFIX,weeb.hanime.tv
+DOMAIN-SUFFIX,ethswarm.org
+DOMAIN-SUFFIX,xiuyinba.xyz
+DOMAIN-SUFFIX,mhqiyi.com
+DOMAIN-SUFFIX,uplod.net
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,gramhir.com
+DOMAIN-SUFFIX,b-ok.org
+DOMAIN-SUFFIX,atomicals.xyz
+  #app
+DOMAIN-SUFFIX,zippyshare.com
+DOMAIN-SUFFIX,dextools.io
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,uplod.net
+DOMAIN-SUFFIX,exoclick.com
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,solidfilesusercontent.com
+DOMAIN-SUFFIX,turbobit.net
+DOMAIN-SUFFIX,mediafire.com
+DOMAIN-SUFFIX,id.unity.com
+  #youtube free
+DOMAIN-SUFFIX,addmefast.com
+DOMAIN-SUFFIX,U2bviews.com
+DOMAIN-SUFFIX,view2.be
+DOMAIN-SUFFIX,emailgo.io
+DOMAIN-SUFFIX,hzmbus.com
+#- DOMAIN-KEYWORD,steam,DIRECT
+# 交易所
+DOMAIN-KEYWORD,bakeryswap
+DOMAIN-KEYWORD,coinmarketcap
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,fkoji.com
+DOMAIN-SUFFIX,apibdzy.com
+DOMAIN-SUFFIX,mode.network
+DOMAIN-SUFFIX,wnode.cyou
+
+# 广告联盟
+DOMAIN-SUFFIX,wingiftnow.life
+DOMAIN-SUFFIX,google.com
+DOMAIN-KEYWORD,google
